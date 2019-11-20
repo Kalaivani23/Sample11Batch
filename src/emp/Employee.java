@@ -10,5 +10,9 @@ public class Employee {
 		System.out.println("Hello");
 		System.out.println("Java");
 		System.out.println("Selenium");
+		int x = 5;
+		int y = 5;
+		System.out.println(x+y); 
+		
 	}
 }
