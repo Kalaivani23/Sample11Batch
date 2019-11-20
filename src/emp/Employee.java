@@ -11,8 +11,19 @@ public class Employee {
 		System.out.println("Java");
 		System.out.println("Selenium");
 		System.out.println("SUb");
+		System.out.println("Priyanka");
+		System.out.println("successful");
+		int x = 5;
+		int y = 5;
+		System.out.println(x+y);
+		System.out.println("hi");
+		System.out.println("Trial from Prasad123");
 		System.out.println("Multiplication");
-		int c= a1*b1;
+		int a=3;
+		int b=5;
+		int c= a*b;
 		System.out.println(c);
 	}
 }
+
+
